@@ -1,3 +1,6 @@
+---
+layout: homepage
+---
 # Welcome to rieder.github.io
 
 This page is hosted with GitHub Pages.
