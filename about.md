@@ -1,5 +1,7 @@
 ---
 layout: page
+title: About
+permalink: /about/
 ---
 ## About me
 I'm a postdoctoral fellow at Exeter University, working on Computational Astrophysics (the formation and evolution of groups of stars in the galaxy) in the team of Clare Dobbs.
