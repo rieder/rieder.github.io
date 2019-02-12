@@ -1,1 +1,7 @@
 theme: jekyll-theme-minimal
+title: Steven Rieder
+description: >- # this means to ignore newlines until "baseurl:"
+  Steven Rieder's website
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: rieder
+github_username: rieder
