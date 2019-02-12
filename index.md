@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Steven's homepage
 ---
 ## Welcome to rieder.github.io
 
