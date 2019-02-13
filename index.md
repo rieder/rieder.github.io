@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Steven's homepage
+title: Home
+nav_order: 1
 ---
 ## Welcome to rieder.github.io
 
